@@ -25,11 +25,36 @@ body{
   line-height:20px;
 }
 
-.top{
+h1{
   margin:20px 0;
   font-size:1.8em;
 }
 
 p{
   margin:30px;
+}
+
+h2{
+  margin:20px 0;
+  font-size:1.4em;
+}
+
+table{
+  display:table;
+  border-collapse:collapse;
+  border-spacing:5px;
+}
+
+thead{
+  text-align:center;
+  vertical-align:middle;
+}
+
+tr{
+  display:table-row;
+}
+
+tbody{
+  text-align:center;
+  vertical-align:middle;
 }
