@@ -39,3 +39,15 @@ h2{
   font-size:1.4em;
 }
 
+td{
+  padding:5px;
+  font-size:15px;
+}
+
+ul{
+  margin:30px;
+}
+
+.box{
+  margin-bottom:15px;
+}
